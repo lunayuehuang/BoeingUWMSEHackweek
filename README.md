@@ -27,7 +27,12 @@
 
 
 <u>Friday:</u> 
+Zoom for class time 
 2:00 - 5:00 PM: Closing ceremony  
+https://washington.zoom.us/s/93616213570
+
+
+Zoom for class time 
 
 ```python
 
