@@ -1,9 +1,9 @@
 
 # Please use [Padlet](https://padlet.com/huangyue4/BoeingUWMSEHackWeek) to interact with other students and mentors
-**[https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)**
+<span style="font-size:2em">[https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)</span>
 
 # Please [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) for all the flash talks
-**[RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true)**
+
 
 
 # **Hack-week Calendar**
@@ -40,7 +40,7 @@ Webex Meeting number ```144 970 2173```; password: ```N2StF5CpnC8```
 Webex Meeting Number: ```144 398 1895```; password: ```8d7ZENvmW2J```
 
 <br>4:00 - 5:00 PM : Mentoring hours by Jamie Schaffer, Ph.D (https://uw-phi.zoom.us/j/98583666188), Expertise: Object detection, Yolo, Roboflow 
-<br>5:30 - 6:00 PM : Flash talk by Mat Wynn  
+<br>5:30 - 6:00 PM : Flash talk by Mat Wynn, Ph.D candidate of MSE, formal Boeing engineer with experience of composites, structural adhesive bonding, and general non-metallics with a focus on structural materials. Some parts and programs he has worked on include a composite helicopter blade, a wing leading edge for a fighter jet, and a nose radome for a commercial aircraft: *Detecting Defects and Variability in Composite Part Processing*   
 
 <br>8:30 - 9:30 PM : Mentoring Time with Radek Dabrowski, Facebook, Principal Architect and software engineer, Hackathon enthusist. Expertise: Coding, Pythorch, Image classification, 
 
