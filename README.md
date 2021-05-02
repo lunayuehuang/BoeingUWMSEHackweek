@@ -14,21 +14,21 @@
 |Afternoon |1:00 - 1:30<br> Flash talk by Jamie Schaffer [Zoom](https://washington.zoom.us/j/98069186759)<br> <br>1:30 - 2:00 <br> Flash talk by Yelena B [Zoom](https://washington.zoom.us/j/98069186759)<br><br> 2:30 - 3:00<br> Flash talk by Rhonda Crate |2:30 - 3:00 PM : Flash talk by Sam Pedigo [Webex](https://boeing.webex.com/boeing/j.php?MTID=m4f29d42f0570da566c109b00b0f49f2e)<br><br> 4:00 - 5:00 PM : Mentoring hours Jamie Schaffer [Zoom](https://uw-phi.zoom.us/j/98583666188)<br> <br>5:30 - 6:00<br> Flash talk by Mat Wynn [Zoom](https://washington.zoom.us/j/98069186759)| 12:30 - 3:30  PM : Mentoring hours hosted by Boeing Side<br><br> 5:30 - 6:30 <br>Flash talk by  Alexandre Gueniot [Zoom](https://washington.zoom.us/j/98069186759)|   | 2:00 - 5:00<br> Closing Ceremony [Zoom Link](https://washington.zoom.us/s/93616213570) |
 |Night ||8:30 -9:30 PM <br> Mentoring hour Radek Dabrowski [Zoom](https://fb.zoom.us/j/96330660300)|   |   |   |
 
-<br>
-<br>
-## Monday  
-10:00 -11:20 AM : Event kick-off and introductions  <br>[Zoom Link](https://washington.zoom.us/s/93616213570) 
-1:00 - 1:30 PM : Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer  
-<br>[Zoom Link](https://washington.zoom.us/j/98069186759)
-<br> Jamie Schaffer is the data scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She hosted Data Sciene Hackathon for object detection challenges which she will share in her talk. 
 
-<br>1:30 - 2:00 PM : Flash talk by Yelena Bagdasarova, Ph.D:  *Deceptron2, Instance Image Segmentation* 
-<br>[Zoom Link](https://washington.zoom.us/j/98069186759)
- <br> Dr. Yelena Bagdasarova is Data Scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She is also part of Data Circle (https://datacircles.org/), a community of data scientists dedicated to creating a safe and welcoming environment for professional growth.
+
+## Monday  
+10:00 -11:20 AM : Event kick-off and introductions [Zoom Link](https://washington.zoom.us/s/93616213570) 
+
+1:00 - 1:30 PM : Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer [Zoom Link](https://washington.zoom.us/j/98069186759)
+Jamie Schaffer is the data scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She hosted Data Sciene Hackathon for object detection challenges which she will share in her talk. 
+
+1:30 - 2:00 PM : Flash talk by Yelena Bagdasarova, Ph.D:  *Deceptron2, Instance Image Segmentation* 
+[Zoom Link](https://washington.zoom.us/j/98069186759)
+Dr. Yelena Bagdasarova is Data Scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She is also part of Data Circle (https://datacircles.org/), a community of data scientists dedicated to creating a safe and welcoming environment for professional growth.
+
 
 2:30 - 3:00 PM : Flash talk by Rhonda Crate,Associate Tech Fellow in Data Science at Boeing, Adjunct Professor in Data Analytics at Washington State University: *Machine Learning and Image Data*
-
-<br>[Webex Meeting Link](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f)
+[Webex Meeting Link](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f)
 
  
 ## Tuesday  
