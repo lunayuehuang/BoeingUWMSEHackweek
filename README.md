@@ -1,11 +1,12 @@
-# **BoeingUWMSEHackweek**
+# Boeing UW MSE Hackweek
 
 
 ## Please use Padlet to interact with other students, and mentors: [https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)
 
 ## Please use this Document to RSVP for all the flash talks: [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) 
 
-# **Hack-week calendar**
+
+# **Hack-week Calendar**
 
 |**Day**|**Monday**|**Tuesday**|**Wednesday**|**Thursday**|**Friday**|
 |---|---|---|---|---|---|
