@@ -6,7 +6,8 @@
 ## Please use this Document to RSVP for all the flash talks: [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) 
 
 # **Hack-week calendar**
-|<strong> Day </strong>|<strong>Monday</strong>|<strong>Tuesday</strong>|<strong>Wednesday</strong>|<strong>Thursday</strong>|<strong>Friday</strong>|
+|<strong>Day</strong>|<strong>Monday</strong>|<strong>Tuesday</strong>|<strong>Wednesday</strong>|<strong>Thursday</strong>|<strong>Friday</strong>|
+
 |---|---|---|---|---|---|
 |||||||
 |Morning |10:00 -11:20 AM<br> Event kick-off|11:30-12 <br>Flash Talk by Rex William [Webex](https://boeing.webex.com/boeing/j.php?MTID=mf49cb950294718bf724a043093fa2d82) | <br>10:00 - 11:20 <br> Group Check in with Boeing mentor<br><br>||Al Submission Due Noon Friday
