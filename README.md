@@ -1,7 +1,9 @@
 
-## Please use Padlet to interact with other students, and mentors: [https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)
+# Please use [Padlet](https://padlet.com/huangyue4/BoeingUWMSEHackWeek) to interact with other students and mentors
+**[https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)**
 
-## Please use this Document to RSVP for all the flash talks: [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) 
+# Please [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) for all the flash talks
+**[RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true)**
 
 
 # **Hack-week Calendar**
@@ -14,7 +16,7 @@
 
 <br>
 <br>
-<u>Monday:</u>  
+## Monday  
 10:00 -11:20 AM : Event kick-off and introductions  <br>[Zoom Link](https://washington.zoom.us/s/93616213570) 
 1:00 - 1:30 PM : Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer  
 <br>[Zoom Link](https://washington.zoom.us/j/98069186759)
@@ -29,7 +31,7 @@
 <br>[Webex Meeting Link](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f)
 
  
-<u>Tuesday:</u>  
+## Tuesday  
 11:30 am - noon: Flash talk by Rex William, Boeing Research and Technology Manufacturing Technology Integration Engineer and Boeing Hack-a-thon Team Lead: *How to Learn Fast for a Hack-a-thon* <br> [webex meeting Link](https://boeing.webex.com/boeing/j.php?MTID=mf49cb950294718bf724a043093fa2d82),  
 Webex Meeting number ```144 970 2173```; password: ```N2StF5CpnC8```
 
@@ -42,7 +44,7 @@ Webex Meeting Number: ```144 398 1895```; password: ```8d7ZENvmW2J```
 
 <br>8:30 - 9:30 PM : Mentoring Time with Radek Dabrowski, Facebook, Principal Architect and software engineer, Hackathon enthusist. Expertise: Coding, Pythorch, Image classification, 
 
-<u>Wednesday:</u>   
+## Wednesday 
 <br>10:00 - 11:20 AM : Boeing engineers mentoring and Q&A session <br>[Zoom Link](https://washington.zoom.us/s/93616213570) 
 
 <br>12:30 - 3:30  PM : Mentoring hours hosted by Boeing Side 
@@ -52,7 +54,7 @@ Webex Meeting Number: ```144 398 1895```; password: ```8d7ZENvmW2J```
 <br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lifely. 
 
 
-<u>Friday:</u> 
+## Friday 
 Noon: Deadline of submit your videos
 
 2:00 - 5:00 PM: Presentaiton Closing ceremony <br>[Zoom Link](https://washington.zoom.us/s/93616213570) 
