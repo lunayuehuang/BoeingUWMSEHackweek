@@ -1,7 +1,7 @@
 # Please [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) for all the flash talks
 
 # Please use [Padlet](https://padlet.com/huangyue4/BoeingUWMSEHackWeek) to interact with other students and mentors
-<span style="font-size:2em">[https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)</span>
+<span style="font-size:1.5em">[https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)</span>
 
 
 
@@ -19,28 +19,28 @@
 ## Monday  
 10:00 -11:20 AM : Event kick-off and introductions [Zoom](https://washington.zoom.us/s/93616213570) 
 
-1:00 - 1:30 PM : Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer [Zoom](https://washington.zoom.us/j/98069186759)
+1:00 - 1:30 PM : Flash talk on ***Object Detection: Leveraging Deep Learning to Facilitate Fish Counts*** by Jamie Schaffer [Zoom](https://washington.zoom.us/j/98069186759)
 Jamie Schaffer is the data scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She hosted Data Sciene Hackathon for object detection challenges which she will share in her talk. 
 
-1:30 - 2:00 PM : Flash talk by Yelena Bagdasarova, Ph.D:  *Deceptron2, Instance Image Segmentation* 
+1:30 - 2:00 PM : Flash talk by Yelena Bagdasarova, Ph.D:  ***Deceptron2, Instance Image Segmentation***
 [Zoom](https://washington.zoom.us/j/98069186759)
 Dr. Yelena Bagdasarova is Data Scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She is also part of Data Circle (https://datacircles.org/), a community of data scientists dedicated to creating a safe and welcoming environment for professional growth.
 
 
-2:30 - 3:00 PM : Flash talk by Rhonda Crate,Associate Tech Fellow in Data Science at Boeing, Adjunct Professor in Data Analytics at Washington State University: *Machine Learning and Image Data*
+2:30 - 3:00 PM : Flash talk by Rhonda Crate,Associate Tech Fellow in Data Science at Boeing, Adjunct Professor in Data Analytics at Washington State University: ***Machine Learning and Image Data***
 [Webex](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f)
 
  
 ## Tuesday  
-11:30 am - noon: Flash talk by Rex William, Boeing Research and Technology Manufacturing Technology Integration Engineer and Boeing Hack-a-thon Team Lead: *How to Learn Fast for a Hack-a-thon* <br> [Webex](https://boeing.webex.com/boeing/j.php?MTID=mf49cb950294718bf724a043093fa2d82),  
+11:30 am - noon: Flash talk by Rex William, Boeing Research and Technology Manufacturing Technology Integration Engineer and Boeing Hack-a-thon Team Lead: ***How to Learn Fast for a Hack-a-thon*** <br> [Webex](https://boeing.webex.com/boeing/j.php?MTID=mf49cb950294718bf724a043093fa2d82),  
 Webex Meeting number **144 970 2173**; password: **N2StF5CpnC8**
 
-2:30 - 3:00 PM : Flash talk by Sam Pedigo, Boeing Associate Tech Fellow in robotics and machine vision systems and associate director of the UW BARC lab: *Composite fabrication methods*
+2:30 - 3:00 PM : Flash talk by Sam Pedigo, Boeing Associate Tech Fellow in robotics and machine vision systems and associate director of the UW BARC lab: ***Composite fabrication methods***
 <br>[Webex](https://boeing.webex.com/boeing/j.php?MTID=m4f29d42f0570da566c109b00b0f49f2e), 
 Webex Meeting Number: **144 398 1895**; password: **8d7ZENvmW2J**
 
 <br>4:00 - 5:00 PM : Mentoring hours by Jamie Schaffer, Ph.D [Zoom](https://uw-phi.zoom.us/j/98583666188), Expertise: Object detection, Yolo, Roboflow 
-<br>5:30 - 6:00 PM : Flash talk by Mat Wynn, Ph.D candidate of MSE, formal Boeing engineer with experience of composites, structural adhesive bonding, and general non-metallics with a focus on structural materials. Some parts and programs he has worked on include a composite helicopter blade, a wing leading edge for a fighter jet, and a nose radome for a commercial aircraft: *Detecting Defects and Variability in Composite Part Processing*   
+<br>5:30 - 6:00 PM : Flash talk by Mat Wynn, Ph.D candidate of MSE, formal Boeing engineer with experience of composites, structural adhesive bonding, and general non-metallics with a focus on structural materials. Some parts and programs he has worked on include a composite helicopter blade, a wing leading edge for a fighter jet, and a nose radome for a commercial aircraft: ***Detecting Defects and Variability in Composite Part Processing***   
 
 <br>8:30 - 9:30 PM : Mentoring Time with Radek Dabrowski, Facebook, Principal Architect and software engineer, Hackathon enthusist. Expertise: Coding, Pythorch, Image classification, [Zoom](https://fb.zoom.us/j/96330660300)
 
@@ -49,8 +49,7 @@ Webex Meeting Number: **144 398 1895**; password: **8d7ZENvmW2J**
 
 <br>12:30 - 3:30  PM : Mentoring hours hosted by Boeing Side 
 
-<br>5:30 - 6:30 PM : Flash talk by  Alexandre Gueniot, Microsoft Principal Software Engineer, Designer for many Powerpoint animation and video making function, Hoster and orgnaizer of many Hackathon on  *How to use Power Point and Movie editing software to make your presentation exciting for Hackathon*  <br>[Zoom](https://washington.zoom.us/j/98069186759)
-    
+<br>5:30 - 6:30 PM : Flash talk by  Alexandre Gueniot, Microsoft Principal Software Engineer, Designer for many Powerpoint animation and video making function, Hoster and orgnaizer of many Hackathon on  ***How to use Power Point and Movie editing software to make your presentation exciting for Hackathon*** <br>[Zoom](https://washington.zoom.us/j/98069186759)   
 <br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lifely. 
 
 
