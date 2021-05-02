@@ -1,15 +1,19 @@
-# BoeingUWMSEHackweek
+# **BoeingUWMSEHackweek**
+
+
+## Please use Padlet to interact with other students, and mentors: https://padlet.com/huangyue4/BoeingUWMSEHackWeek
+
+## Please use this Document to RSVP for all the flash talks: [RSVP](https://docs.google.com/forms/d/1tmEfMO9kepM5rTFMKcE9sPhJ2iJFxquMhOdQYSx1qeY/viewform?edit_requested=true) 
+
 # **Hack-week calendar**
+| Day |<strong>Monday</strong>|<strong>Tuesday</strong>|<strong>Wednesday</strong>|<strong>Thursday</strong>|<strong>Friday</strong>|
+|---|---|---|---|---|---|
+|Morning |10:00 -11:20 AM<br> Event kick-off|11:30-12 <br>Flash Talk by Rex William | <br>10:00 - 11:20 <br> Group Check in with Boeing mentor<br><br>||
+|Afternoon |1:00 - 1:30<br> Flash talk by Jamie Schaffer [Zoom Link](https://washington.zoom.us/j/98069186759)<br> <br>1:30 - 2:00 <br> Flash talk by Yelena B [Zoom Link](https://washington.zoom.us/j/98069186759)<br><br> 2:30 - 3:00<br> Flash talk by Rhonda Crate |4:00 - 5:00 PM : Mentoring hours Jamie Schaffer [zoom](https://uw-phi.zoom.us/j/98583666188)<br> <br>5:30 - 6:00<br> Flash talk by Mat Wynn [Zoom Link](https://washington.zoom.us/j/98069186759)|5:30 - 6:30 <br> Flash talk by  Alexandre Gueniot[Zoom Link](https://washington.zoom.us/j/98069186759)|   | 2:00 - 5:00<br> Closing ceremony  |
+|Night ||8:30 -9:30 PM <br> Mentoring hour Oliver Dabrawski [zoom](https://fb.zoom.us/j/96330660300)|   |   |   |
 
-Padlet to interact with eachother https://padlet.com/huangyue4/BoeingUWMSEHackWeek
-
-| <strong>Monday</strong>|<strong>Tuesday</strong>|<strong>Wednesday</strong>|<strong>Thursday</strong>|<strong>Friday</strong>|
-|---|---|---|---|---|
-|10:00 -11:20 AM<br> Event kick-off <br>1:00 - 1:30 PM |4:00 - 5:00 PM<br> Mentoring hours by Jamie Schaffer <br> [zoomlink](https://uw-phi.zoom.us/j/98583666188)|10:00 - 11:20 AM <br> Boeing engineers guest lectures and mentoring||2:00 - 5:00 PM<br> Closing ceremony|
-|1:00 - 1:30 PM<br> Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer|5:30 - 6:00 PM<br> Flash talk by Mat Wynn|5:30 - 6:00 PM<br> Flash talk by  Alexandre Gueniot|   |   |
-|1:30 - 2:00 PM<br> Flash talk by Yelena B||   |   |   |
-
-
+<br>
+<br>
 <u>Monday:</u>  
 10:00 -11:20 AM : Event kick-off and introductions  <br>[Zoom Link](https://washington.zoom.us/s/93616213570) 
 1:00 - 1:30 PM : Flash talk on *Object Detection: Leveraging Deep Learning to Facilitate Fish Counts* by Jamie Schaffer  
