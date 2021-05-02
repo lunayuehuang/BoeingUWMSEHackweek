@@ -1,5 +1,3 @@
-# Boeing UW MSE Hackweek
-
 
 ## Please use Padlet to interact with other students, and mentors: [https://padlet.com/huangyue4/BoeingUWMSEHackWeek](https://padlet.com/huangyue4/BoeingUWMSEHackWeek)
 
