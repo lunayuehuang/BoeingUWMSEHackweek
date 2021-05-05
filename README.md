@@ -28,7 +28,7 @@ Dr. Yelena Bagdasarova is Data Scientist from Professor Lee's Computational Opth
 
 
 2:30 - 3:00 PM : Flash talk by Rhonda Crate,Associate Tech Fellow in Data Science at Boeing, Adjunct Professor in Data Analytics at Washington State University: ***Machine Learning and Image Data***
-[Webex](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f)
+[Webex](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f), Webex Meeting Number **144 458 7454**; password: **mpYYC9bAg42** 
 
  
 ## Tuesday  
