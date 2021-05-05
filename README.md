@@ -53,13 +53,13 @@ Webex Meeting Number: **144 398 1895**; password: **8d7ZENvmW2J**
 <br>12:30 - 3:30  PM : Mentoring hours hosted by Boeing Side 
 
 <br>5:30 - 6:30 PM : Flash talk by  Alexandre Gueniot, Microsoft Principal Software Engineer, Designer for many Powerpoint animation and video making function, Hoster and orgnaizer of many Hackathon on  ***How to use Power Point and Movie editing software to make your presentation exciting for Hackathon*** <br>[Zoom](https://washington.zoom.us/j/98069186759)   
-<br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lifely. 
+<br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lively. 
 
 
 ## Friday 
 Noon: Deadline of submit your videos
 
-2:00 - 5:00 PM: Presentaiton Closing ceremony <br>[Zoom](https://washington.zoom.us/s/93616213570) 
+2:00 - 5:00 PM: Presentation Closing ceremony <br>[Zoom](https://washington.zoom.us/s/93616213570) 
 
 
 
