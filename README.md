@@ -30,8 +30,12 @@ Dr. Yelena Bagdasarova is Data Scientist from Professor Lee's Computational Opth
 2:30 - 3:00 PM : Flash talk by Rhonda Crate,Associate Tech Fellow in Data Science at Boeing, Adjunct Professor in Data Analytics at Washington State University: ***Machine Learning and Image Data***
 [Webex](https://boeing.webex.com/webappng/sites/boeing/meeting/download/3bf8a45f855a4660bc4e4548435c4500?siteurl=boeing&MTID=me8b4e076660f4b15d9df191896d3ee5f), Webex Meeting Number **144 458 7454**; password: **mpYYC9bAg42** 
 
+4:30 - 5:30 PM : TA Office Hour by Hang Hu [Zoom](https://washington.zoom.us/j/98431344756)
  
 ## Tuesday  
+
+9:00 - 10:00 AM : TA Office Hour by Jimin Qian [Zoom](https://washington.zoom.us/j/98431344756)
+
 11:30 am - noon: Flash talk by Rex William, Boeing Research and Technology Manufacturing Technology Integration Engineer and Boeing Hack-a-thon Team Lead: ***How to Learn Fast for a Hack-a-thon*** <br> [Webex](https://boeing.webex.com/boeing/j.php?MTID=mf49cb950294718bf724a043093fa2d82),  
 Webex Meeting number **144 970 2173**; password: **N2StF5CpnC8**
 
@@ -57,6 +61,9 @@ Webex Meeting Number: **144 398 1895**; password: **8d7ZENvmW2J**
 
 
 ## Friday 
+
+9:00 - 10:00 AM : TA Office Hour by Shivesh Sivakumar [Zoom](https://washington.zoom.us/j/98431344756)
+
 Noon: Deadline of submit your videos
 
 2:00 - 5:00 PM: Presentation Closing ceremony <br>[Zoom](https://washington.zoom.us/s/93616213570) 
