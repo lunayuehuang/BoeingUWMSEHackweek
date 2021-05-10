@@ -20,7 +20,7 @@
 10:00 -11:20 AM : Event kick-off and introductions [Zoom](https://washington.zoom.us/s/93616213570) 
 
 1:00 - 1:30 PM : Flash talk on ***Object Detection: Leveraging Deep Learning to Facilitate Fish Counts*** by Jamie Schaffer [Zoom](https://washington.zoom.us/j/98069186759)
-Jamie Schaffer is the data scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She hosted Data Sciene Hackathon for object detection challenges which she will share in her talk. 
+Jamie Schaffer is the data scientist from Professor Lee's Computational Opthalmology Lab of UW Medical School (https://comp.ophthalmology.uw.edu). She hosted Data Sciene Hackathon for object detection challenges, and she did a object detection project for sorting fish using videos, which she will share in her talk. 
 
 1:30 - 2:00 PM : Flash talk by Yelena Bagdasarova, Ph.D:  ***Deceptron2, Instance Image Segmentation***
 [Zoom](https://washington.zoom.us/j/98069186759)
