@@ -60,7 +60,7 @@ Webex Meeting Number: **144 398 1895**; password: **8d7ZENvmW2J**.
 <br>3:30 - 5:30 PM : Mentoring Hours by Yelena B [Zoom](https://uw-phi.zoom.us/j/93119603225)  
 
 <br>5:30 - 6:30 PM : Flash talk by  Alexandre Gueniot, Microsoft Principal Software Engineer, Designer for many Powerpoint animation and video making function, Hoster and orgnaizer of many Hackathon on  ***How to use Power Point and Movie editing software to make your presentation exciting for Hackathon*** <br>[Zoom](https://washington.zoom.us/j/98069186759)   
-<br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lively. 
+<br>Alexandre Gueniot will give two talks back to back to show how to make your presentation more engaging and lively. [Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17b3c4c3-faaf-48e5-9ed9-ad27004c0574)
 
 <br>8:30 - 9:30 PM : Mentoring Time with Radek Dabrowski, Facebook, Principal Architect and software engineer, Hackathon enthusist. Expertise: Coding, Pythorch, Image classification, [Zoom](https://fb.zoom.us/j/96330660300)
 
